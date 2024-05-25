@@ -1,4 +1,6 @@
 # streaming-04-multiple-consumers
+Kellie Bernhardt 25MAY24
+NWMSU 44671 Streaming Data
 
 > Use RabbitMQ to distribute tasks to multiple workers
 
@@ -58,3 +60,6 @@ Which worker gets which tasks?
 ## Screenshot
 
 See a running example with at least 3 concurrent process windows here:
+
+![alt text](https://github.com/krh5284/streaming-04-multiple-consumers/blob/main/mod4_v1_multiple_terminals.png?raw=true)
+

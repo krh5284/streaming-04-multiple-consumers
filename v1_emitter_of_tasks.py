@@ -1,4 +1,6 @@
 """
+Kellie Bernhardt 25MAY24
+NWMSU 44671 Streaming Data
 
 Creates and sends a task message to the queue each execution.
 This process runs and finishes. 

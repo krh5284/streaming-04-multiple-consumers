@@ -1,4 +1,6 @@
 """
+Kellie Bernhardt 25MAY24
+NWMSU 44671 Streaming Data
 
 Listens for task messages on the queue.
 This process runs continously. 

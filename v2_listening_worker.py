@@ -1,4 +1,7 @@
 """
+Kellie Bernhardt 25MAY24
+NWMSU 44671 Streaming Data
+
     This program listens for work messages contiously. 
     Start multiple versions to add more workers.  
 

@@ -1,4 +1,7 @@
 """
+Kellie Bernhardt 25MAY24
+NWMSU 44671 Streaming Data
+
     This program sends a message to a queue on the RabbitMQ server.
     Make tasks harder/longer-running by adding dots at the end of the message.
 
