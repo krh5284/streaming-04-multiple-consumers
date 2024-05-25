@@ -63,3 +63,5 @@ See a running example with at least 3 concurrent process windows here:
 
 ![alt text](https://github.com/krh5284/streaming-04-multiple-consumers/blob/main/mod4_v1_multiple_terminals.png?raw=true)
 
+![alt text](https://github.com/krh5284/streaming-04-multiple-consumers/blob/main/mod4_v2_multiple_terminals.png?raw=true)
+
